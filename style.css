@@ -23,6 +23,16 @@ nav{
     background-color:#55798a18;
     padding: 10px;
 }
+nav#navegacao{
+    background-color:#55798a18;
+    min-width: 600px;
+    padding: 4px;
+    margin: 0px;
+    min-width: 280px;
+    max-width: 1320px;
+    margin: auto
+    
+}
 nav>a{
     text-decoration: none;
     color: white;
